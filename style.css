@@ -1,0 +1,19 @@
+body {
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Acme', sans-serif;
+}
+#content {
+  background-color: rgba(255, 255, 232, 0.5);
+  width: fit-content;
+  border-radius: 25px;
+  border: 2px solid rgba(255, 255, 232, 0.5);
+  margin:0px auto;
+  padding: 15px;
+}
+#footer {
+    position: absolute;
+    left: 0 ; right: 0; bottom: 0;
+    height: 30px;
+}
